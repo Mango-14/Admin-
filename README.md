@@ -38,3 +38,9 @@ npm run dev
 ```sh
 npm run build
 ```
+
+
+
+# 数据库表设计
+
+黑马大事件接口文档：http://escook.cn:8088/#/
